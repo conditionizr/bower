@@ -1,4 +1,1 @@
-bower
-=====
-
-Stable release for Bower
+# Conditionizr for Bower
